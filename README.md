@@ -1,2 +1,2 @@
 # TMDb_Movie_data_analysis
-This project aims at investigation on a data set that contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue. we will analyze this dataset and in particular we are interested in finding trends and patterns among the revenue whether it is high or low depending on other gathered data like (budget , votes ,etc.)
+This project aims at investigation on a dataset that contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue. we will analyze this dataset and in particular we are interested in finding trends and patterns among the revenue whether it is high or low depending on other gathered data like (budget , votes ,etc..).
